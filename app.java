@@ -3,4 +3,5 @@
        echo "Please enter your password"
        read -s password  
        echo "Welcome to the zelle application"
+       Open an account with zelle and get $300
        Bug removed from application
